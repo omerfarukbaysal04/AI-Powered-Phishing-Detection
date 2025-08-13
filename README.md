@@ -22,8 +22,8 @@ To get a local copy up and running, follow these simple steps:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/omerfarukbaysal04/Phishing-URL-Detector.git](https://github.com/omerfarukbaysal04/Phishing-URL-Detector.git)
-    cd Phishing-URL-Detector
+    git clone https://github.com/omerfarukbaysal04/AI-Powered-Phishing-Detection.git
+    cd AI-Powered-Phishing-Detection
     ```
 
 2.  Install the required libraries from the `requirements.txt` file:
